@@ -1,4 +1,4 @@
-// api/coze-token.js
+//api/coze-token.js
 // Coze Token 代理服务 - Vercel Serverless Function
 
 export default async function handler(req, res) {
