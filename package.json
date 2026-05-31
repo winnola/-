@@ -1,0 +1,9 @@
+{
+  "name": "coze-proxy",
+  "version": "1.0.0",
+  "description": "Coze Token Proxy for Vercel",
+  "type": "module",
+  "engines": {
+    "node": ">=18.x"
+  }
+}
